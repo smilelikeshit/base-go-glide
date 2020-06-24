@@ -1,2 +1,2 @@
-FROM golang:1.13.12-buster
+FROM golang:1.8
 RUN curl https://glide.sh/get | sh
